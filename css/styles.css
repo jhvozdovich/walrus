@@ -12,6 +12,27 @@ img {
   color: violet;
 }
 
+#fade-out-text{
+  color: aqua;
+}
+
+#prompt-text{
+  color: red;
+}
+
 .clickable:hover {
+  text-decoration: underline;
+}
+
+.initially-hidden {
+  display: none;
+}
+
+.babyemu {
+  cursor: pointer;
+  color: teal;
+}
+
+.babyemu:hover {
   text-decoration: underline;
 }
