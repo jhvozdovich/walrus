@@ -1,4 +1,17 @@
-img {
+#walrus-showing {
   width: 80%;
   display: none;
+}
+
+img {
+  width: 80%;
+}
+
+.clickable {
+  cursor: pointer;
+  color: violet;
+}
+
+.clickable:hover {
+  text-decoration: underline;
 }
